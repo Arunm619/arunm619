@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there👋! I'm [Arun Sudharsan](https://arun-sudharsan.github.io/arunm619.github.io/) 🙋‍♂️
+
+![Profile views](https://gpvc.arturio.dev/arunm619)
 
 
-**I am Arun sudharsan** 
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Deep Learning_ 🥽.
 
-Here are some ideas to get you started:
+### 🎍 Welcome to my hub 👨‍💻
 
-- 🔭 I’m currently working as SDE-2 at Meesho Ⓜ️
-- 🌱 I’m currently learning Android development
+- 💼 Android Developer @ [Meesho](https://www.meesho.com/)
+- 👨‍💻 ***#SelfTaught*** Developer.
 - 📫 How to reach me: 9940245619 or arunmsudharsan@gmail.com
-- 😄 Pronouns: He/Him
+- Loves 🎵 and 🎹.
+- Proud 🇮🇳.
 
-[![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunm619)](https://github.com/arunm619/github-readme-stats)
 
-[![Twitter: Arunm_619](https://img.shields.io/twitter/follow/arunm619?style=social)](https://twitter.com/arunm_619)
-[![Linkedin: arunm619](https://img.shields.io/badge/-arunm619-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arunm619/)](https://www.linkedin.com/in/arunm619/)
+### 📊 Github Stats
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arunm619&count_private=true&show_icons=true&include_all_commits=true" alt="Arun Sudharsan | Stats" />
+
+---
+
+## 🔗 Know more about me 
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arun-sudharsan.github.io/arunm619.github.io/)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](arunmsudharsan@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Arunm_619)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/arunm619/)
+[![Google Play](https://img.shields.io/badge/-Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/developer?id=Arunm619.dev)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/arunm619/)
