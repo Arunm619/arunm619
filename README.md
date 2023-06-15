@@ -1,6 +1,6 @@
 # Hi there👋! I'm [Arun Sudharsan](https://arun-sudharsan.github.io/arunm619.github.io/) 🙋‍♂️
 
-![Profile views](https://gpvc.arturio.dev/arunm619)
+![Profile Views](https://komarev.com/ghpvc/?username=arunm619)
 
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Deep Learning_ 🥽.
