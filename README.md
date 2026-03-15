@@ -9,7 +9,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Deep Learning_ 🥽.
 
 - 💼 Android Developer @ [Meesho](https://www.meesho.com/)
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 📫 How to reach me: 9940245619 or arunmsudharsan@gmail.com
+- 📫 How to reach me: arunmsudharsan@gmail.com
 - Loves 🎵 and 🍕.
 - Proud 🇮🇳.
 
