@@ -29,4 +29,4 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Deep Learning_ 🥽.
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/arunm619/)
 
 -------------
-<a href="https://www.buymeacoffee.com/arunm619" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
